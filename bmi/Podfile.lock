@@ -1,0 +1,28 @@
+PODS:
+  - bmi_flutter (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - bmi_flutter (from `../bmi_flutter/.ios/Flutter`)
+  - Flutter (from `../bmi_flutter/.ios/Flutter/engine`)
+  - FlutterPluginRegistrant (from `../bmi_flutter/.ios/Flutter/FlutterPluginRegistrant`)
+
+EXTERNAL SOURCES:
+  bmi_flutter:
+    :path: "../bmi_flutter/.ios/Flutter"
+  Flutter:
+    :path: "../bmi_flutter/.ios/Flutter/engine"
+  FlutterPluginRegistrant:
+    :path: "../bmi_flutter/.ios/Flutter/FlutterPluginRegistrant"
+
+SPEC CHECKSUMS:
+  bmi_flutter: 0a016375bea6a32e359dd3c8aafd58c18f33065d
+  Flutter: bdfa2e8fe0e2880a2c6a58a0b1a8675c262a07af
+  FlutterPluginRegistrant: 2afd5ea46d3a949472c9b7da6462d8fbf7d8b16e
+
+PODFILE CHECKSUM: 6f106c3c99c7164bc3d1df1aa4ef568da609c601
+
+COCOAPODS: 1.11.2
